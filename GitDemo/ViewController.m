@@ -20,6 +20,9 @@
     ViewController *vc = [[ViewController alloc] init];
     [self.view addSubview:vc];
     
+    //This is for test.
+    
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
